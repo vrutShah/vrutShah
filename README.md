@@ -1,5 +1,17 @@
-# 💫 About Me:
-I'm currently working on the project named Pocket Buddy in my Internship at Royal Technosoft P Ltd with Oracle University.<br>In that Project Pocket Buddy is a versatile application designed to simplify the way restaurant owners and users interact with offers and promotions. This platform empowers restaurant owners to create and manage their restaurants and various offers, while also enabling regular users to contribute by adding their own offers. To ensure authenticity and quality, other users can review offers and moderate them for better transparency.<br>With robust search functionality, users can easily discover offers based on location, food type, or specific preferences, making Pocket Buddy an indispensable tool for food enthusiasts seeking the best deals. The application fosters a community-driven ecosystem where both businesses and consumers benefit, promoting engagement and collaboration.<br>Key features include role-based access control, user-generated content moderation, advanced search options, and intuitive interfaces. Pocket Buddy aims to bridge the gap between restaurant owners and consumers by offering a platform for seamless interaction and mutual benefit<br>I'm Using FARM Technology and Python fast API,With react JS and Vite with DB of Mongo DB and The Django server.
+# 💫 About Me
+
+🎓 I'm a Computer Engineering student (2021–2025) at **Marwadi University**, affiliated with **Gujarat Technological University (GTU)**.
+
+💻 Currently exploring the world of web development and programming with:
+- **Python**
+- **HTML & CSS**
+- **JavaScript (JS)**
+- **JSX**
+
+📚 Passionate about learning new technologies and building a strong foundation in software development.
+
+Thanks for visiting my profile!
+
 
 
 ## 🌐 Socials:
