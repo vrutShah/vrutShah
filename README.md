@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🎓 I'm a Computer Engineering student (2021–2025) at **Marwadi University**, affiliated with **Gujarat Technological University (GTU)**.
+🎓 Completed Bachelor of Engineering in Computer Engineering (2021–2025) from Marwadi University, affiliated with Gujarat Technological University (GTU).
 
 💻 Currently exploring the world of Python 🐍 and programming with:
 - **Python**
