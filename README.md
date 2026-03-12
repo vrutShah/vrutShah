@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Engineering student (2021–2025) at **Marwadi University**, affiliated with **Gujarat Technological University (GTU)**.
 
-💻 Currently exploring the world of web development and programming with:
+💻 Currently exploring the world of Python 🐍 and programming with:
 - **Python**
 - **HTML & CSS**
 - **JavaScript (JS)**
